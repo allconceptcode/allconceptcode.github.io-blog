@@ -2,7 +2,7 @@ title:              allconceptcode
 email:              allconceptcode@gmail.com
 description:        A Blog Theme for Productivity and Knowledge Management 
 author:             Christos E.
-baseurl:            ""
+baseurl:            "productivityblog"
 url:                "https://allconceptcode.github.io"
 
 # Social Profiles
